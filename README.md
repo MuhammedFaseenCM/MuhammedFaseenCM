@@ -1,33 +1,153 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
-<h1 align="center">Hi 👋, I'm Muhammed Faseen C M</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Faseen%20C%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=58&descColor=cdd6f4" width="100%" />
 
-- 🔭 I’m currently learning on [flutter, dart](dart)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89DCEB&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Mobile+App+Architect+%F0%9F%93%B1;Open+Source+Collaborator+%F0%9F%A4%9D;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Flutter**
+<br/>
 
-- 👯 I’m looking to collaborate on [flutter projects](projects)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=MuhammedFaseenCM&label=Profile%20Views&color=89b4fa&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/MuhammedFaseenCM?label=Followers&style=flat-square&color=cba6f7" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Dart-89dceb?style=flat-square" alt="Focus" />
 
-- 💬 Ask me about **Dart, Flutter**
+</div>
 
-- 📫 How to reach me **faseencm0@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-faseen-c-m-43b823180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-faseen-c-m-43b823180/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20499573/muhammed-faseen-c-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20499573/muhammed-faseen-c-m" height="30" width="40" /></a>
-<a href="https://medium.com/@faseencm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faseencm0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/faseencm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/faseencm0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/faseen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/faseen/" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+```dart
+class Developer {
+  String name     = "Muhammed Faseen C M";
+  String location = "India 🇮🇳";
+  String focus    = "Flutter & Dart";
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedFaseenCM&show_icons=true&locale=en&layout=compact" alt="MuhammedFaseenCM" /></p>
+  List<String> currentlyLearning = ["Flutter", "Dart", "Firebase"];
+  List<String> lookingFor        = ["Flutter collaborations", "Open source projects"];
+  String       contact           = "faseencm0@gmail.com";
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedFaseenCM&show_icons=true&locale=en" alt="MuhammedFaseenCM" /></p>
+  String toString() => "Passionate mobile developer crafting beautiful UIs 💙";
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedFaseenCM&" alt="MuhammedFaseenCM" /></p>
+- 🔭 Building cross-platform mobile apps with **Flutter & Dart**
+- 🌱 Deep-diving into **state management, animations & Firebase**
+- 🤝 Open to collaborating on exciting **Flutter projects**
+- 💡 Believer in clean code, great UX, and continuous improvement
+- 📫 Reach me at **faseencm0@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 📱 Primary Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logo=apachehive&logoColor=white)
+
+### 🎨 Design & Frontend
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammedFaseenCM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89dceb&text_color=cdd6f4&ring_color=89b4fa" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedFaseenCM&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6" height="165" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedFaseenCM&theme=tokyonight&hide_border=true&background=1e1e2e&ring=89b4fa&fire=fab387&currStreakLabel=cba6f7&sideLabels=cdd6f4&dates=a6adc8&stroke=313244" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MuhammedFaseenCM/zine-player">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedFaseenCM&repo=zine-player&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89dceb&text_color=cdd6f4&icon_color=cba6f7" />
+</a>
+&nbsp;
+<a href="https://github.com/MuhammedFaseenCM/RentEase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedFaseenCM&repo=RentEase&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89dceb&text_color=cdd6f4&icon_color=cba6f7" />
+</a>
+
+<a href="https://github.com/MuhammedFaseenCM/student_database_sqflite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedFaseenCM&repo=student_database_sqflite&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89dceb&text_color=cdd6f4&icon_color=cba6f7" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-faseen-c-m-43b823180/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20499573/muhammed-faseen-c-m)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faseencm0)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/faseencm0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/faseen/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faseencm0@gmail.com)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammedFaseenCM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedFaseenCM&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=cba6f7&line=89b4fa&point=89dceb&area=true&area_color=313244" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+**⭐ If you like my work, consider starring my repositories!**
+
+</div>
